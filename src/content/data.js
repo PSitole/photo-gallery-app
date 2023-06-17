@@ -43,7 +43,7 @@ export const data = [
   },
   {
     "name": "Cheese",
-    "url": "/images/chicken.jpg",
+    "url": "/images/cheese.jpg",
     "description": "I Love Cheese",
     "date": "2023-06-17",
     "type": "image/jpg",
